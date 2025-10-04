@@ -1,4 +1,4 @@
-# DDI Recommendation Engine - Version3
+# Recommendation Engine - Version3
  Create a virtual Environment
 
     python -m venv venv
